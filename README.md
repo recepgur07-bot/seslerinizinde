@@ -3,7 +3,7 @@
 Görme engelli bir çiftin içerik markası **Seslerin İzinde**'nin tanıtım sitesi.
 Adres: https://seslerinizinde.com ve www.seslerinizinde.com (Cloudflare Registrar, 7 Ekim 2026, 1 yıl, 10,46 USD, otomatik yenileme kapalı).
 
-Durum: yayında (7 Ekim 2026): https://seslerinizinde.com, www ve /en/ çalışıyor; DNS, GitHub alan doğrulaması ve Enforce HTTPS tamam. İletişim formu ertelendi. İçerik ve görünüm sahiplerinden ayrıca gelecek. VoiceOver turu yapılmadı. Forali sitesine ve ayarlarına dokunulmaz.
+Durum: yayında (7 Ekim 2026): https://seslerinizinde.com, www ve /en/ çalışıyor; DNS, GitHub alan doğrulaması ve Enforce HTTPS tamam. İletişim formu ertelendi; iletişim e-postası sitede. İçerik ve görünüm sahiplerinden ayrıca gelecek. VoiceOver turu yapılmadı. Forali sitesine ve ayarlarına dokunulmaz.
 
 ## Yapı
 
@@ -15,7 +15,7 @@ Durum: yayında (7 Ekim 2026): https://seslerinizinde.com, www ve /en/ çalış�
 
 - Doğrulanmış bağlantılar: YouTube @seslerinizinde, TikTok @seslerin.izinde (7 Ekim'de sayfa kimliği eşleşti).
 - Instagram: doğrulanamadı (giriş duvarı); sahipleri onaylayınca eklenir.
-- X (Twitter) yok. E-posta adresi şimdilik yazılmaz.
+- X (Twitter) yok. E-posta: iletisim@seslerinizinde.com (iCloud+, MX/SPF/DKIM 7 Ekim 2026 kontrol edildi) sitede; recep@ yayımlanmaz.
 - İletişim formu: statik sitede üçüncü taraf form hizmeti gerekir; hizmet seçilmeden eklenmez.
 - Rakamlar (abone, takipçi, izlenme) yalnız herkese açık profilden doğrulanıp tarihiyle yazılır; son kontrol 7 Ekim 2026: YouTube 202 bin abone, 602 video; TikTok 97.489 takipçi, 3,7 milyon beğeni, 441 video; en çok izlenen kısa video 2,5 milyon. Sahipleri istediği için (Claude Startups başvurusu) rakamlar ve öne çıkan videolar sitede.
 - Tüzel kişilik (Ltd., A.Ş., vergi no) belgelenmeden yazılmaz; site kendini "sosyal farkındalık medyası" olarak tanıtır. Ödül gibi doğrulanmamış bilgi yazılmaz.
