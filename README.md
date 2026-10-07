@@ -3,7 +3,7 @@
 Görme engelli bir çiftin içerik markası **Seslerin İzinde**'nin tanıtım sitesi.
 Adres: https://seslerinizinde.com ve www.seslerinizinde.com (Cloudflare Registrar, 7 Ekim 2026, 1 yıl, 10,46 USD, otomatik yenileme kapalı).
 
-Durum: taslak yayında hazır (7 Ekim 2026): depo github.com/recepgur07-bot/seslerinizinde (herkese açık), Pages main /docs, custom domain seslerinizinde.com ayarlı. Bekleyen: Cloudflare DNS + GitHub alan doğrulaması (Codex), sonra Enforce HTTPS. İletişim formu ertelendi. İçerik ve görünüm sahiplerinden ayrıca gelecek. Yayın, push ve alan adı bağlama yalnız açık onayla. Forali sitesine ve ayarlarına dokunulmaz.
+Durum: yayında (7 Ekim 2026): https://seslerinizinde.com, www ve /en/ çalışıyor; DNS, GitHub alan doğrulaması ve Enforce HTTPS tamam. İletişim formu ertelendi. İçerik ve görünüm sahiplerinden ayrıca gelecek. VoiceOver turu yapılmadı. Forali sitesine ve ayarlarına dokunulmaz.
 
 ## Yapı
 
