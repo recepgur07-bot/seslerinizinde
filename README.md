@@ -17,7 +17,9 @@ Durum: yayında (7 Ekim 2026): https://seslerinizinde.com, www ve /en/ çalış�
 - Instagram: doğrulanamadı (giriş duvarı); sahipleri onaylayınca eklenir.
 - X (Twitter) yok. E-posta adresi şimdilik yazılmaz.
 - İletişim formu: statik sitede üçüncü taraf form hizmeti gerekir; hizmet seçilmeden eklenmez.
-- Takipçi sayısı, şirket, ödül gibi doğrulanmamış veya izin verilmemiş bilgi yazılmaz.
+- Rakamlar (abone, takipçi, izlenme) yalnız herkese açık profilden doğrulanıp tarihiyle yazılır; son kontrol 7 Ekim 2026: YouTube 202 bin abone, 602 video; TikTok 97.489 takipçi, 3,7 milyon beğeni, 441 video; en çok izlenen kısa video 2,5 milyon. Sahipleri istediği için (Claude Startups başvurusu) rakamlar ve öne çıkan videolar sitede.
+- Tüzel kişilik (Ltd., A.Ş., vergi no) belgelenmeden yazılmaz; site kendini "sosyal farkındalık medyası" olarak tanıtır. Ödül gibi doğrulanmamış bilgi yazılmaz.
+- "18 Milyon İzlenen Video" yalnız videonun kendi başlığı olarak geçer; 18 milyon rakamı doğrulanmadı, sitede iddia olarak kullanılmaz.
 - Tek `h1`, sıralı başlıklar, doğru `lang`, "İçeriğe atla", görünür odak. "Erişilebilirlik doğrulandı" yalnız gerçek VoiceOver turundan sonra.
 
 ## Yayın: GitHub Pages (ayrı depo)
